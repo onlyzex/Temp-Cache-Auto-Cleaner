@@ -8,7 +8,7 @@ Temp Auto Cleaner adalah tools sederhana untuk membantu Anda membersihkan file s
 - Mudah Digunakan: Cukup jalankan skrip dan biarkan alat ini melakukan pekerjaan berat untuk Anda.
 
 ## Cara Menggunakan
-1. Unduh skrip batch ini ke komputer Anda.
+1. Unduh Temp Cache Auto Cleaner.cmd ke komputer Anda.
 2. Klik dua kali pada file untuk menjalankannya.
 3. Ikuti instruksi di layar dan biarkan alat ini membersihkan file sementara Anda.
 
@@ -29,7 +29,7 @@ Here is the translated description in English:
 - **Easy to Use**: Simply run the script and let this tool do the heavy lifting for you.
 
 ## How to Use
-1. Download this batch script to your computer.
+1. Download Temp Cache Auto Cleaner.cmd to your computer.
 2. Double-click the file to run it.
 3. Follow the on-screen instructions and let the tool clean up your temporary files.
 
